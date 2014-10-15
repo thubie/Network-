@@ -1,0 +1,7 @@
+1)Start PortForward
+2)Ga naar Server8888
+3)Start JHTTPServer
+4)Ga naar Server9999
+5)Start JHTTPServer
+
+Source code zit in de src folder van JHTTPServer en PortForward

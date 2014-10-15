@@ -1,0 +1,4 @@
+1)Start RMI Server
+2)Start 1 of meerdere RMI player
+
+Source Code is te vinden in RMI Player en RMI Server src folder
